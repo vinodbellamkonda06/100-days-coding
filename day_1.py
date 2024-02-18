@@ -1,0 +1,1 @@
+#python prgram to  identify the palindrom  
